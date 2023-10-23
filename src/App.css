@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.myCard{
+  border: 2px solid gray;
+  padding: 2px;
+  margin:1px
+}
+
+.errorCard{
+  font-size: 12px;
+  padding: 5px;
+}
+
+.error{
+  color:red
+}
+
+.result{
+  color:green;
+  font-size: 12px;
+}
